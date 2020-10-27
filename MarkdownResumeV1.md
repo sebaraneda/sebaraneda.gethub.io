@@ -1,4 +1,4 @@
-<p style="text-align: center;">
+
 
 # Sebastian Araneda
 #### 16-124 Portsmouth Blvd
@@ -6,7 +6,6 @@
 #### 1 (204) 887-5503
 #### araneda3@myumanitoba.ca
  
-</p>
 
 ----------------------------------------------
 
