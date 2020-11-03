@@ -19,15 +19,15 @@ You will need...
 
 1. Create a repository
  - Once signed into [GitHub](https://github.com/), create a new repository named _username_.github.io and make the repository public.
-
-- This step relates to using distributed version control from _[Modern Technical Writing][1]_. A repository allows for documentation to stay in sync with the latest changes while easily allowing for contribution.
+  ![](Step-1.gif)
+ - This step relates to using distributed version control from _[Modern Technical Writing][1]_. A repository allows for documentation to stay in sync with the latest changes while easily allowing for contribution.
 
 2. Add your resume formatted in Markdown to the repository
  - From the repository home page, add your resume Markdown file. Ensure the file name is **index.md**
-
+   ![](Step-2.gif)
 3. Generate a static site with a theme
 - In the settings tab, head over to the GitHub Pages section, click _Change theme_ and select one that best suites you. If you want to look into a custom Jekyll template, you can view a quick intro to Jekyll [here](https://www.mikedane.com/static-site-generators/jekyll/).
-
+  ![](Step-3.gif)
 - This step relates to making a static website from _[Modern Technical Writing][1]_. As GitHub pages allows us to host our resume on a static site using with a Jekyll theme to create a nice static website page for your resume.
 
 The tools from Andrew Etter's book _[Modern Technical Writing][1]_ are as follows...
