@@ -1,11 +1,10 @@
 
 
 # Sebastian Araneda
-#### 16-124 Portsmouth Blvd
-#### Winnipeg, MB, R3P 1B6
+
 #### 1 (204) 887-5503
 #### araneda3@myumanitoba.ca
- 
+#### https://github.com/sebaraneda
 
 ----------------------------------------------
 
