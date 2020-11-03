@@ -47,9 +47,9 @@ The tools from Andrew Etter's book _[Modern Technical Writing][1]_ are as follow
  - [Introduction to Jekyll](https://www.mikedane.com/static-site-generators/jekyll/)
 
 ## Authors and Acknowledgements
-  - Credit to the template authors
+  - Github Pages themes: [slate](https://github.com/pages-themes/slate)
   - Thank you to my group members: Connor Gehman, Quoc Nguyen, and Jiachi Sun
-  - Etter, Andrew. Modern Technical Writing. Kindle edition, Self-published, 2016.
+  - Etter, Andrew. _[Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)_. Kindle edition, Self-published, 2016.
 
 ## FAQ's
 Why is Markdown better than a word processor?
