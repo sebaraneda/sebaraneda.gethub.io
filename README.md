@@ -59,4 +59,4 @@ Why is Markdown better than a word processor?
  - Markdown allows documentation to be kept in version control, allows for simple separation of content and style, of HTML and CSS, and best of all, is free to use.
 
 Why is my resume not showing up?
- - It can take up to 20 minutes for your resume to show up on GitHub Pages. If after 20 minutes, the problem still persists, ensure it's entitled "index.md", and your branch is set to main in the GitHub Pages section of settings and the correct folder is selected.
+ - It can take up to 20 minutes for your resume to show up on GitHub Pages. If after 20 minutes, the problem still persists, ensure it is entitled "index.md", and your branch is set to main in the GitHub Pages section of settings and the correct folder is selected.
