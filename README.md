@@ -6,6 +6,9 @@ This README will give you the steps to host an online resume and README on a Git
 
   - [Getting Started](#getting-started)
   - [Instructions](#instructions)
+      1. [Create a repository](#create-a-repository)
+      2. [Add your resume formatted in Markdown to the repository](#add-your-resume-formatted-in-markdown-to-the-repository)
+      3. [Generate a static site with a theme](#generate-a-static-site-with-a-theme)
   - [More Resources](#more-resources)
   - [Authors and Acknowledgements](#authors-and-acknowledgements)
   - [FAQ's](#FAQ's)
