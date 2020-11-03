@@ -48,7 +48,7 @@ The tools from Andrew Etter's book _[Modern Technical Writing][1]_ are as follow
 
 ## Authors and Acknowledgements
   - Credit to the template authors
-  - Thank you to my group members: Connor Gehman, Quoc Nguyen, and Jiachi son
+  - Thank you to my group members: Connor Gehman, Quoc Nguyen, and Jiachi Sun
   - Etter, Andrew. Modern Technical Writing. Kindle edition, Self-published, 2016.
 
 ## FAQ's
