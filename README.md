@@ -38,7 +38,6 @@ The tools from Andrew Etter's book _[Modern Technical Writing][1]_ are as follow
  1. Use Lightweight Markup (utilization of Markdown)
  2. Use Distributed Version Control (GitHub Pages)
  3. Make Static Websites (Static site generator, Jekyll)
- 4. Rsync (new files get added, existing files get updated (if necessary), and old files get deleted). (GitHub repository)
 
 [1]: <https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS> "Etter, Andrew. Modern Technical Writing. Kindle edition, Self-published, 2016."
 
