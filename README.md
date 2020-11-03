@@ -22,7 +22,7 @@ You will need...
 
 1. Create a repository
  - Once signed into [GitHub](https://github.com/), create a new repository named _username_.github.io and make sure the repository is public.
-  ![](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%201.gif)
+  ![Creating a repository](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%201.gif)
  - This step relates to using distributed version control from _[Modern Technical Writing][1]_. A repository allows for documentation to stay in sync with the latest changes while easily allowing for contribution.
 
 2. Add your resume formatted in Markdown to the repository
