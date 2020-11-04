@@ -16,7 +16,7 @@ This README will give you the steps to host an online resume and README on a Git
 ## Getting Started
 You will need... 
 1. A resume formatted in [Markdown](https://www.markdownguide.org/basic-syntax)
-    - Markdown is a lightweight markup language that allows our static site generator, Jekyll in our case, format and present your resume while allowing you to be able to update it as needed.
+    - Markdown is a lightweight and readable markup language that allows our static site generator, Jekyll in our case, to format and present your resume while allowing you to quickly update it as needed. 
     - To start working with Markdown, you'll need an editor such as...
   
       [Visual Studio Code](https://code.visualstudio.com/) 
@@ -27,7 +27,9 @@ You will need...
      
       [Make a README](https://www.makeareadme.com/)
       
-        - Simple online Markdown editor with spell check and live preview. If you don't want to install anything and just want to get going working with Markdown, I can't recommend Make a README enough!   
+        - Simple online Markdown editor with spell check and live preview. If you don't want to install anything and just want to get going working with Markdown, I can't recommend Make a README enough!
+        
+    - If you are new to Markdown, I strongly recommend checking out the Markdown tutorial and basic guide in the [More Resources](#more-resources) section.
       
 2. A [GitHub Account](https://github.com/join)
 
@@ -51,6 +53,8 @@ You will need...
    ![Adding files to a repository](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%202.gif)
    
    _Figure 2: Adding files to a repository_
+   
+ - We utilize Markdown to allow for quick changes to our resume for any updates we might need. Andrew Etter highlights this importance in terms of version control. Since Markdown is readable and can be edited in-place, your resume becomes a living document.
    
 #### 3. Generate a static site with a theme
 - In the `Settings` tab, head over to the 'GitHub Pages' section, click `Change theme` and select a theme. If you want to look into a custom Jekyll templates, you can view a quick intro to Jekyll [here](https://www.mikedane.com/static-site-generators/jekyll/).
