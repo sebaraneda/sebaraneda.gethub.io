@@ -11,7 +11,7 @@ This README provides the steps necessary to host an online resume, and README, i
       3. [Generate a static site with a theme](#generate-a-static-site-with-a-theme)
   - [More Resources](#more-resources)
   - [Authors and Acknowledgements](#authors-and-acknowledgements)
-  - [FAQ's](#FAQ's)
+  - [FAQs](#FAQs)
 
 ## Getting Started
 You will need... 
@@ -85,7 +85,7 @@ The tools from Andrew Etter's book _[Modern Technical Writing][1]_ are as follow
   - Thank you to my group members: Connor Gehman, Quoc Nguyen, and Jiachi Sun
   - Etter, Andrew. _[Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)_. Kindle edition, Self-published, 2016.
 
-## FAQ's
+## FAQs
 Why is Markdown better than a word processor?
  - Markdown allows documentation to be kept in version control, allows for simple separation of content and style, of HTML and CSS, and best of all, is free to use.
 
