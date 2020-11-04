@@ -43,7 +43,7 @@ You will need...
   
   _Figure 1: Creating a repository_
   
- - This step relates to using distributed version control from _[Modern Technical Writing][1]_. A repository allows for documentation to stay in sync with the latest changes while easily allowing for contribution.
+- This step relates to using distributed version control from _[Modern Technical Writing][1]_. A repository allows for documentation to stay in sync with the latest changes while easily allowing for contribution.
 
 #### 2. Add your resume formatted in Markdown to the repository
  - From the repository home page, add your resume Markdown file. Ensure the file name is 'index.md'
