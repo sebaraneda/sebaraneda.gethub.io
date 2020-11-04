@@ -2,9 +2,12 @@
 
 This README provides the steps necessary to host an online resume, and README, in a GitHub Pages Public Repository. Utilizing Markdown, a lightweight markup language, and Jekyll, a static site generator, you will be able to share and host documents on the distributed version control system, GitHub Pages.
 
+   ![Online Resume](https://github.com/sebaraneda/sebaraneda.github.io/blob/main/Demo.gif)
+    
+   _Figure 1: Online Resume_  
+
 ## Summary
 
-  - [Finished Product](#finished-product)
   - [Getting Started](#getting-started)
   - [Instructions](#instructions)
       1. [Create a repository](#create-a-repository)
@@ -13,11 +16,6 @@ This README provides the steps necessary to host an online resume, and README, i
   - [More Resources](#more-resources)
   - [Authors and Acknowledgements](#authors-and-acknowledgements)
   - [FAQs](#FAQs)
-  
-## Finished Product
-   ![Online Resume](https://github.com/sebaraneda/sebaraneda.github.io/blob/main/Demo.gif)
-    
-   _Figure 1: Online Resume_  
 
 ## Getting Started
 You will need... 
