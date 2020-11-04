@@ -65,7 +65,15 @@ You will need...
   
   _Figure 4: Choosing a Jekyll theme_
   
+- Edit the `_config.yml` file, add `title: Your Name` as a new line to change your website's title.
+
+  ![Changing website's title](https://github.com/sebaraneda/sebaraneda.github.io/blob/main/Step%203.2.gif)
+  
+  _Figure 4: Changing website's title_
+  
 - The use of a static website is a key principle from Etter’s book. Using a static site generator, such as Jekyll, we can transform Markdown content into an appealing and themed static website.
+
+------------------------------------------------------------------------------------
 
 The tools from Andrew Etter's book _[Modern Technical Writing][1]_ are as follows...
 
