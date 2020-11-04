@@ -12,6 +12,11 @@ This README provides the steps necessary to host an online resume, and README, i
   - [More Resources](#more-resources)
   - [Authors and Acknowledgements](#authors-and-acknowledgements)
   - [FAQs](#FAQs)
+  
+## Finished Product
+   ![Online Resume](https://github.com/sebaraneda/sebaraneda.github.io/blob/main/Demo.gif)
+    
+   _Figure 1: Online Resume_  
 
 ## Getting Started
 You will need... 
@@ -32,9 +37,7 @@ You will need...
     - If you are new to Markdown, check out the Markdown Basic Guide and Markdown Tutorial in the [More Resources](#more-resources) section.
       
 2. A [GitHub Account](https://github.com/join)
-
-## Finished Product
-
+   
 ## Instructions
 
 #### 1. Create a repository
@@ -43,7 +46,7 @@ You will need...
  
    ![Creating a repository](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%201.gif)
     
-   _Figure 1: Creating a repository_
+   _Figure 2: Creating a repository_
   
 - This step relates to using distributed version control from _[Modern Technical Writing][1]_. A repository allows for documentation to stay in sync with the latest changes, while easily allowing for contribution.
 
@@ -52,7 +55,7 @@ You will need...
  
    ![Adding files to a repository](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%202.gif)
    
-   _Figure 2: Adding files to a repository_
+   _Figure 3: Adding files to a repository_
    
  - Markdown language is readable, allowing for quick updates. This functionality, as highlighted by Etter, is important for version control, by enabling multiple versions of your resume to be updated and recorded.
    
@@ -61,7 +64,7 @@ You will need...
 
   ![Choosing a Jekyll theme](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%203.gif)
   
-  _Figure 3: Choosing a Jekyll theme_
+  _Figure 4: Choosing a Jekyll theme_
   
 - The use of a static website is a key principle from Etter’s book. Using a static site generator, such as Jekyll, we can transform Markdown content into an appealing and themed static website.
 
