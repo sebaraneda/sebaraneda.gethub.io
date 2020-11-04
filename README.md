@@ -29,7 +29,7 @@ You will need...
       
         - Simple online Markdown editor with spell check and live preview. If you don't want to install anything and just want to get going working with Markdown, I can't recommend Make a README enough!
         
-    - If you are new to Markdown, I strongly recommend checking out the Markdown tutorial and basic guide in the [More Resources](#more-resources) section.
+    - If you are new to Markdown, I strongly recommend checking out the Markdown Basic Guide and Markdown Tutorial in the [More Resources](#more-resources) section.
       
 2. A [GitHub Account](https://github.com/join)
 
@@ -75,7 +75,7 @@ The tools from Andrew Etter's book _[Modern Technical Writing][1]_ are as follow
 
 ## More Resources
  - [Markdown Basic Guide](https://www.markdownguide.org/basic-syntax)
- - [Markdown tutorial](https://www.markdowntutorial.com/)
+ - [Markdown Tutorial](https://www.markdowntutorial.com/)
  - Andrew Etter's book _[Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)_
  - [GitHub Pages](https://pages.github.com/)
  - [Introduction to Jekyll](https://www.mikedane.com/static-site-generators/jekyll/)
