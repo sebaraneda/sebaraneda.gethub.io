@@ -8,8 +8,7 @@
 
 ----------------------------------------------
 
-A highly motivated individual completing an Honours Degree in Computer Science at the University of Manitoba, while working part time at Manitoba Hydro in the Geospatial Data Services Section. 
-Interest and experience in understanding requirements from a business perspective to develop and implement technical solutions using hard skills acquired through school and employment.
+A highly motivated individual completing an Honours Degree in Computer Science at the University of Manitoba and working part time in the Geospatial Data Services Section of Manitoba Hydro. Interest and experience in understanding requirements from a business perspective to develop and implement technical solutions using hard skills acquired through school and employment.
 
 ----------------------------------------------  
 
@@ -27,13 +26,11 @@ Technical Skill Experience
 
 Documentation
 - Development of an opportunity document to outline a business case at Manitoba Hydro
-- Formulation laboratory reports in a variety of subjects
+- Formulation of laboratory reports in a variety of subjects
 - Data entry for work orders at TA2 Sound and Music
 
 ## Employment History
 Manitoba Hydro, Winnipeg, Manitoba					            Summer 2019-Present
-
-Dianes Beachwear, Torrance, California					                      November 2018
 
 Intex Recreation Corporation, Long Beach, California					 Summer 2018
 
