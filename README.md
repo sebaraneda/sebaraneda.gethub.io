@@ -29,7 +29,7 @@ You will need...
       
         - Simple online Markdown editor with spell check and live preview. If you don't want to install anything and just want to get going working with Markdown, I can't recommend Make a README enough!
         
-    - If you are new to Markdown, I strongly recommend checking out the Markdown Basic Guide and Markdown Tutorial in the [More Resources](#more-resources) section.
+    - If you are new to Markdown, check out the Markdown Basic Guide and Markdown Tutorial in the [More Resources](#more-resources) section.
       
 2. A [GitHub Account](https://github.com/join)
 
