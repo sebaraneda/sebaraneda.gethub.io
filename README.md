@@ -23,12 +23,11 @@ You will need...
       
         - Simple editor with a live preview option, and if you're reading this, there's a good chance you already have it.
       
-     OR
+      OR
      
       [Make a README](https://www.makeareadme.com/)
       
-        - Simple online Markdown editor with spell check and live preview. If you don't want to install anything and just want to get going working
-        with Markdown, I can't recommend Make a README enough!
+        - Simple online Markdown editor with spell check and live preview. If you don't want to install anything and just want to get going working with Markdown, I can't recommend Make a README enough!   
       
 2. A [GitHub Account](https://github.com/join)
 
