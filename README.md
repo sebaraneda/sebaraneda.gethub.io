@@ -54,7 +54,7 @@ You will need...
    
    _Figure 2: Adding files to a repository_
    
- - We utilize Markdown for quick changes and updates to our resume as needed. Etter highlights this importance in terms of version control. Since Markdown is readable and can be edited in-place, your resume becomes a living document.
+ - Markdown language is readable, allowing for quick updates. This functionality, as highlighted by Etter, is important for version control, by enabling multiple versions of your resume to be updated and recorded.
    
 #### 3. Generate a static site with a theme
 - In the `Settings` tab, head over to the `GitHub Pages` section, click `Change theme` and select a theme. If you want to look into a custom Jekyll template, you can view a quick intro to Jekyll [here](https://www.mikedane.com/static-site-generators/jekyll/).
@@ -63,7 +63,7 @@ You will need...
   
   _Figure 3: Choosing a Jekyll theme_
   
-- This step relates to making a static website from _[Modern Technical Writing][1]_. As GitHub pages allows us to host our resume on a static site using with a Jekyll theme to create a nice static website page for your resume.
+- The use of a static website is a key principle from Etter’s book. Using a static site generator, such as Jekyll, we are able to transform Markdown content into an appealing and themed static website.
 
 The tools from Andrew Etter's book _[Modern Technical Writing][1]_ are as follows...
 
