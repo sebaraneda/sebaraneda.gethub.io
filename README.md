@@ -48,16 +48,16 @@ You will need...
 - This step relates to using distributed version control from _[Modern Technical Writing][1]_. A repository allows for documentation to stay in sync with the latest changes, while easily allowing for contribution.
 
 #### 2. Add your Markdown formatted resume to the repository
- - From the repository home page, add your resume Markdown file. Ensure the file name is `index.md`
+ - From the repository home page, add your resume Markdown file. Ensure the file name is `index.md`.
  
    ![Adding files to a repository](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%202.gif)
    
    _Figure 2: Adding files to a repository_
    
- - We utilize Markdown to allow for quick changes to our resume for any updates we might need. Andrew Etter highlights this importance in terms of version control. Since Markdown is readable and can be edited in-place, your resume becomes a living document.
+ - We utilize Markdown for quick changes and updates to our resume as needed. Etter highlights this importance in terms of version control. Since Markdown is readable and can be edited in-place, your resume becomes a living document.
    
 #### 3. Generate a static site with a theme
-- In the `Settings` tab, head over to the 'GitHub Pages' section, click `Change theme` and select a theme. If you want to look into a custom Jekyll templates, you can view a quick intro to Jekyll [here](https://www.mikedane.com/static-site-generators/jekyll/).
+- In the `Settings` tab, head over to the `GitHub Pages` section, click `Change theme` and select a theme. If you want to look into a custom Jekyll template, you can view a quick intro to Jekyll [here](https://www.mikedane.com/static-site-generators/jekyll/).
 
   ![Choosing a Jekyll theme](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%203.gif)
   
@@ -90,4 +90,4 @@ Why is Markdown better than a word processor?
  - Markdown allows documentation to be kept in version control, allows for simple separation of content and style, of HTML and CSS, and best of all, is free to use.
 
 Why is my resume not showing up?
- - It can take up to 20 minutes for your resume to show up on GitHub Pages. If after 20 minutes, the problem still persists, ensure it is entitled "index.md", and your branch is set to main in the GitHub Pages section of settings and the correct folder is selected.
+ - It can take up to 20 minutes for your resume to show up on GitHub Pages. If after 20 minutes, the problem still persists, ensure it is entitled `index.md`, and your branch is set to main in the GitHub Pages section of settings and the correct folder is selected.
