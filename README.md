@@ -16,17 +16,30 @@ This README will give you the steps to host an online resume and README on a Git
 ## Getting Started
 You will need... 
 1. A resume formatted in [Markdown](https://www.markdownguide.org/basic-syntax)
+  - Markdown is a lightweight markup language that allows our static site generator, Jekyll in our case, format and present your resume while allowing you to be able to update it as needed.
+  - To start working with Markdown, you'll need an editor such as 
+    [Visual Studio Code](https://code.visualstudio.com/) 
+      - Simple editor with a live preview option, and if you're reading this, there's a good chance you already have it
+      
+    OR
+    
+    [Make a README](https://www.makeareadme.com/)
+      - Simple online Markdown editor with spell check and live preview. If you don't want to install anything and just want to get going working with Markdown, I can't recommend Make a README enough!
+      
 2. A [GitHub Account](https://github.com/join)
+
+## Finished Product
 
 ## Instructions
 
 #### 1. Create a repository
- - Once signed into [GitHub](https://github.com/), create a new repository named _username_.github.io and make sure the repository is public.
+ - Once signed into [GitHub](https://github.com/), create a new repository named '_username_.github.io' and make sure the repository is public.
+ For example: sebaraneda.github.io
   ![Creating a repository](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%201.gif)
  - This step relates to using distributed version control from _[Modern Technical Writing][1]_. A repository allows for documentation to stay in sync with the latest changes while easily allowing for contribution.
 
 #### 2. Add your resume formatted in Markdown to the repository
- - From the repository home page, add your resume Markdown file. Ensure the file name is **index.md**
+ - From the repository home page, add your resume Markdown file. Ensure the file name is 'index.md'
    ![Adding a file to repository](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%202.gif)
 #### 3. Generate a static site with a theme
 - In the settings tab, head over to the GitHub Pages section, click _Change theme_ and select one that best suites you. If you want to look into a custom Jekyll template, you can view a quick intro to Jekyll [here](https://www.mikedane.com/static-site-generators/jekyll/).
