@@ -17,7 +17,8 @@ This README will give you the steps to host an online resume and README on a Git
 You will need... 
 1. A resume formatted in [Markdown](https://www.markdownguide.org/basic-syntax)
   - Markdown is a lightweight markup language that allows our static site generator, Jekyll in our case, format and present your resume while allowing you to be able to update it as needed.
-  - To start working with Markdown, you'll need an editor such as 
+  - To start working with Markdown, you'll need an editor such as...
+  
     [Visual Studio Code](https://code.visualstudio.com/) 
       - Simple editor with a live preview option, and if you're reading this, there's a good chance you already have it
       
