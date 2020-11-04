@@ -38,15 +38,23 @@ You will need...
 #### 1. Create a repository
  - Once signed into [GitHub](https://github.com/), create a new repository named '_username_.github.io' and make sure the repository is public.
  For example: sebaraneda.github.io
+ 
   ![Creating a repository](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%201.gif)
+  _Figure 1: Creating a repository_
+  
  - This step relates to using distributed version control from _[Modern Technical Writing][1]_. A repository allows for documentation to stay in sync with the latest changes while easily allowing for contribution.
 
 #### 2. Add your resume formatted in Markdown to the repository
  - From the repository home page, add your resume Markdown file. Ensure the file name is 'index.md'
-   ![Adding a file to repository](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%202.gif)
+ 
+   ![Adding files to a repository](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%202.gif)
+   _Figure 2: Adding files to a repository_
+   
 #### 3. Generate a static site with a theme
 - In the 'Settings' tab, head over to the 'GitHub Pages' section, click 'Change theme' and select a theme. If you want to look into a custom Jekyll templates, you can view a quick intro to Jekyll [here](https://www.mikedane.com/static-site-generators/jekyll/).
-  ![Choosing a static site theme](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%203.gif)
+
+  ![Choosing a Jekyll theme](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%203.gif)
+  _Figure 3: Choosing a Jekyll theme_
 - This step relates to making a static website from _[Modern Technical Writing][1]_. As GitHub pages allows us to host our resume on a static site using with a Jekyll theme to create a nice static website page for your resume.
 
 The tools from Andrew Etter's book _[Modern Technical Writing][1]_ are as follows...
