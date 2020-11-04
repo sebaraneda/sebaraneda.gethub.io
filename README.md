@@ -1,6 +1,6 @@
 # How to Host an Online Resume Using Modern Technical Writing Tools
 
-This README will give you the steps to host an online resume and README on a GitHub Pages Public Repository using Markdown, a lightweight markup language, with Jekyll, static site generator to share and host documents on a distributed version control system, GitHub Pages.
+This README provides the steps necessary to host an online resume, and README, in a GitHub Pages Public Repository. Utilizing Markdown, a lightweight markup language, and Jekyll, a static site generator, you will be able to share and host documents on the distributed version control system, GitHub Pages.
 
 ## Summary
 
