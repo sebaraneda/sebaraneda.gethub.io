@@ -47,7 +47,7 @@ You will need...
   
 - This step relates to using distributed version control from _[Modern Technical Writing][1]_. A repository allows for documentation to stay in sync with the latest changes, while easily allowing for contribution.
 
-#### 2. Add your resume formatted in Markdown to the repository
+#### 2. Add your Markdown formatted resume to the repository
  - From the repository home page, add your resume Markdown file. Ensure the file name is `index.md`
  
    ![Adding files to a repository](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%202.gif)
