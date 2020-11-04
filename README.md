@@ -4,6 +4,7 @@ This README provides the steps necessary to host an online resume, and README, i
 
 ## Summary
 
+  - [Finished Product](#finished-product)
   - [Getting Started](#getting-started)
   - [Instructions](#instructions)
       1. [Create a repository](#create-a-repository)
