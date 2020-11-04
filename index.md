@@ -4,7 +4,7 @@
 
 #### 1 (204) 887-5503
 #### araneda3@myumanitoba.ca
-#### https://github.com/sebaraneda
+#### [Personal GitHub](https://github.com/sebaraneda)
 
 ----------------------------------------------
 
