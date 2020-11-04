@@ -55,6 +55,7 @@ You will need...
 
   ![Choosing a Jekyll theme](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%203.gif)
   _Figure 3: Choosing a Jekyll theme_
+  
 - This step relates to making a static website from _[Modern Technical Writing][1]_. As GitHub pages allows us to host our resume on a static site using with a Jekyll theme to create a nice static website page for your resume.
 
 The tools from Andrew Etter's book _[Modern Technical Writing][1]_ are as follows...
