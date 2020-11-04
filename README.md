@@ -16,16 +16,16 @@ This README will give you the steps to host an online resume and README on a Git
 ## Getting Started
 You will need... 
 1. A resume formatted in [Markdown](https://www.markdownguide.org/basic-syntax)
-  - Markdown is a lightweight markup language that allows our static site generator, Jekyll in our case, format and present your resume while allowing you to be able to update it as needed.
-  - To start working with Markdown, you'll need an editor such as...
+    - Markdown is a lightweight markup language that allows our static site generator, Jekyll in our case, format and present your resume while allowing you to be able to update it as needed.
+    - To start working with Markdown, you'll need an editor such as...
   
-    [Visual Studio Code](https://code.visualstudio.com/) 
-      - Simple editor with a live preview option, and if you're reading this, there's a good chance you already have it
+      [Visual Studio Code](https://code.visualstudio.com/) 
+        - Simple editor with a live preview option, and if you're reading this, there's a good chance you already have it
       
-    OR
+     OR
     
-    [Make a README](https://www.makeareadme.com/)
-      - Simple online Markdown editor with spell check and live preview. If you don't want to install anything and just want to get going working with Markdown, I can't recommend Make a README enough!
+      [Make a README](https://www.makeareadme.com/)
+       - Simple online Markdown editor with spell check and live preview. If you don't want to install anything and just want to get going working with Markdown, I can't recommend Make a README enough!
       
 2. A [GitHub Account](https://github.com/join)
 
