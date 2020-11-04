@@ -39,9 +39,9 @@ You will need...
  - Once signed into [GitHub](https://github.com/), create a new repository named `username.github.io`and make sure the repository is public.
     For example: sebaraneda.github.io
  
-  ![Creating a repository](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%201.gif)
-  
-  _Figure 1: Creating a repository_
+   ![Creating a repository](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%201.gif)
+    
+   _Figure 1: Creating a repository_
   
 - This step relates to using distributed version control from _[Modern Technical Writing][1]_. A repository allows for documentation to stay in sync with the latest changes while easily allowing for contribution.
 
