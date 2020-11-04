@@ -37,8 +37,7 @@ You will need...
 
 #### 1. Create a repository
  - Once signed into [GitHub](https://github.com/), create a new repository named ` *username*.github.io `and make sure the repository is public.
- 
- For example: sebaraneda.github.io
+    For example: sebaraneda.github.io
  
   ![Creating a repository](https://github.com/sebaraneda/sebaraneda.gethub.io/blob/main/Step%201.gif)
   
